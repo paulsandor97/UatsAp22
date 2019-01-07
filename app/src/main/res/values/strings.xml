@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UatsAp2.2</string>
+    <string name="title_activity_messages">Messages</string>
+    <string name="phone_number_string">Phone Number</string>
+    <string name="password_string">Password</string>
+    <string name="sign_in_string">Sign in</string>
+    <string name="log_in_string">Log In</string>
+    <string name="user_id_string">User ID</string>
+    <string name="show_db_string">Show Database</string>
+    <string name="add_new_contact_string">Add new contact</string>
+    <string name="title_activity_contacts_rv">ContactsRV</string>
+    <string name="delete_contact_string">Delete Contact</string>
+    <string name="user_to_delete_string">User To Delete</string>
+    <string name="delete_user_string">Delete User</string>
+    <string name="log_in_as_admin_string">Log in as Admin</string>
+    <string name="delete_string">Delete</string>
+</resources>
